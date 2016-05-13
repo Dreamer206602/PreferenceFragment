@@ -15,6 +15,7 @@
             android:summary="一个使用了编辑文本对话框的例子"
             android:title="请输入你喜欢的种族"/>
         <ListPreference
+            android:key="@string/list_preference"
             android:dialogTitle="请选择一项"
             android:entries="@array/list_kind"/>
     </PreferenceCategory>
