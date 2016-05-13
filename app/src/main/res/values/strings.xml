@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PreferenceFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="checkbox_preference">check_preference</string>
+    <string name="edittext_preference">edittext_preference</string>
+</resources>
